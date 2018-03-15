@@ -25,13 +25,13 @@ Se desarrollara un sistema de alarma con implementacion de placa Arduino, que in
 
 ![imagen](https://github.com/macario96/alarma_arduino/blob/master/Diagrama-Alarma-Buzz.png "Diagrama Electrico")
 
-**FOTOGRAFIAS DE ENSAMBLAJE Y FUNCIONAMIENTO**
-Ensamblado
+**FOTOGRAFIAS DE ENSAMBLAJE Y FUNCIONAMIENTO**<br>
+**Ensamblado**
 ![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Vista.jpg "Ensamblado")
 ![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Libre.jpg "Ensamblado")
-
-Reposo
+<br>
+**Reposo**
 ![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Blue.jpg "Cuando esta en Standby")
-
-Activado
+<br>
+**Activado**
 ![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Green.jpg "Cuando de activa")
