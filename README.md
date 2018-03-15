@@ -11,7 +11,7 @@ Alarma para puerta con Arduino.
 
 **PROBLEMA**
 
-Se desarrollara un sistema de alarma con implementacion de placa Arduino, que integrara los componentes de un Reed Switch, un led RGB y un Buzzer/Zumbador. Este led se activara cuando el IMAN active el Reed Switch, indicando que la puerta ha sido abierta. Y el Buzzer generara una sonido indicando que la alarma ha sido activada. Se ha añadido la biblioteca LowPower que permite trabajar 
+Se desarrollara un sistema de alarma con implementacion de placa Arduino, que integrara los componentes de un Reed Switch, un led RGB y un Buzzer/Zumbador. Este led se activara cuando el IMAN active el Reed Switch, indicando que la puerta ha sido abierta. Y el Buzzer generara una sonido indicando que la alarma ha sido activada. Se ha añadido la biblioteca LowPower que permite trabajar con poca electricidad a nuestro Arduino. 
 
 **MATERIAL**
 1. Placa Arduino UNO
