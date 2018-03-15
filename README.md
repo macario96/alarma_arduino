@@ -11,8 +11,7 @@ Alarma para puerta con Arduino.
 
 **PROBLEMA**
 
-Se desarrollara un sistema de alarma con implementacion de placa Arduino, que integrara los componentes de un Reed Switch
-y un Led RGB. Este led se activara cuando el IMAN active el Reed Switch, indicando que la puerta ha sido abierta.
+Se desarrollara un sistema de alarma con implementacion de placa Arduino, que integrara los componentes de un Reed Switch, un led RGB y un Buzzer/Zumbador. Este led se activara cuando el IMAN active el Reed Switch, indicando que la puerta ha sido abierta. Y el Buzzer generara una sonido indicando que la alarma ha sido activada. Se ha añadido la biblioteca LowPower que permite trabajar 
 
 **MATERIAL**
 1. Placa Arduino UNO
@@ -20,12 +19,19 @@ y un Led RGB. Este led se activara cuando el IMAN active el Reed Switch, indican
 3. 3 Resistencias de 330 Ohms
 4. 1 Reed Switch
 5. 8 Conectores de 10 mm
+6. 1 Buzzer / Zumbador
 
 **DIAGRAMA ELECTRICO**
 
-![imagen](https://github.com/macario96/alarma_arduino/blob/master/Diagrama-Alarma.png "Diagrama Electrico")
+![imagen](https://github.com/macario96/alarma_arduino/blob/master/Diagrama-Alarma-Buzz.png "Diagrama Electrico")
 
 **FOTOGRAFIAS DE ENSAMBLAJE Y FUNCIONAMIENTO**
-![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-libre.jpg "Ensamblado")
+Ensamblado
+![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Vista.jpg "Ensamblado")
+![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Libre.jpg "Ensamblado")
+
+Reposo
 ![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Blue.jpg "Cuando esta en Standby")
-![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Red.jpg "Cuando de activa")
+
+Activado
+![imagen](https://github.com/macario96/alarma_arduino/blob/master/Alarma-Green.jpg "Cuando de activa")
